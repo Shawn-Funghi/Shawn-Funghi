@@ -4,7 +4,7 @@
 希望能幫助也有寫類似東西的人  
 Hi!My name is Shawn, and chinese name is Su-Jyun-Syun.  
 Maybe here you can find some stuff that might help you.  
-ここには多分使える物があるよ　　
+ここには多分使える物があるよ  　　
 でも基本は中国語と少し英語　すまない orz　　　
 <!---
 Shawn-Funghi/Shawn-Funghi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
